@@ -12,4 +12,4 @@ In jsonScripts.js
 Schrijf een function GetJSON die de data aanwezig in een json-bestand retourneert. Je zult hier asynchroon moeten werken en wachten op het resultaat van de operatie.
 
 ## In script.js
-Schrijf een function die de auto-gegevens ophaalt via GetJSON en die opslaat in de variabele autos. Daarna worden de auto-gegevens getoond in de select en de details getoond in de DOM-elementen.
+Schrijf een function die de auto-gegevens ophaalt via GetJSON en die opslaat in de variabele autos. Daarna worden de auto-gegevens getoond in de select en de details in de DOM-elementen.
